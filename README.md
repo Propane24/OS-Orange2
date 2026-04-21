@@ -17,50 +17,50 @@
 ## Phase 1 — Object Storage
 
 ### Screenshot 1A — `./test_objects` passing
-![1A](screenshots/screenshots/img2.png)
+![1A](screenshots/img2.png)
 
 ### Screenshot 1B — Sharded object directory
-![1B](screenshots/screenshots/img1.png)
+![1B](screenshots/img1.png)
 
 ---
 
 ## Phase 2 — Tree Objects
 
 ### Screenshot 2A — `./test_tree` passing
-![2A](screenshots/screenshots/image.png)
+![2A](screenshots/image.png)
 
 ### Screenshot 2B — Raw binary tree object (`xxd`)
-![2B](screenshots/screenshots/img3.png)
+![2B](screenshots/img3.png)
 
 ---
 
 ## Phase 3 — Index / Staging Area
 
 ### Screenshot 3A — `pes init` → `pes add` → `pes status`
-![3A](screenshots/screenshots/img10.png)
+![3A](screenshots/img10.png)
 
 ### Screenshot 3B — `cat .pes/index`
-![3B](screenshots/screenshots/img9.png)
+![3B](screenshots/img9.png)
 
 ---
 
 ## Phase 4 — Commits and History
 
 ### Screenshot 4A — `pes log` with three commits
-![4A](screenshots/screenshots/img8.png)
+![4A](screenshots/img8.png)
 
 ### Screenshot 4B — `find .pes -type f | sort` showing object growth
-![4B](screenshots/screenshots/img7.png)
+![4B](screenshots/img7.png)
 
 
 ### Screenshot 4C — `cat .pes/refs/heads/main` and `cat .pes/HEAD`
-![4c](screenshots/screenshots/img5.png)
+![4c](screenshots/img5.png)
 
 
 ---
 
 ## Integration Test
-![integration-1](screenshots/screenshots/img4.png)
+![integration-1](screenshots/img4.png)
 
 
 ### Screenshot — `make test-integration`
