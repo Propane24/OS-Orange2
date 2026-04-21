@@ -30,39 +30,37 @@
 ![2A](screenshots/screenshots/image.png)
 
 ### Screenshot 2B — Raw binary tree object (`xxd`)
-![2B](screenshots/screenshots/image_copy.png)
+![2B](screenshots/screenshots/img3.png)
 
 ---
 
 ## Phase 3 — Index / Staging Area
 
 ### Screenshot 3A — `pes init` → `pes add` → `pes status`
-![3A](screenshots/Screenshot%202026-04-21%20125304.png)
+![3A](screenshots/screenshots/img10.png)
 
 ### Screenshot 3B — `cat .pes/index`
-![3B](screenshots/Screenshot%202026-04-21%20125355.png)
+![3B](screenshots/screenshots/img9.png)
 
 ---
 
 ## Phase 4 — Commits and History
 
 ### Screenshot 4A — `pes log` with three commits
-![4A](screenshots/Screenshot%202026-04-21%20125517.png)
-![4a](screenshots/Screenshot%202026-04-21%20125529.png)
+![4A](screenshots/screenshots/img8.png)
 
 ### Screenshot 4B — `find .pes -type f | sort` showing object growth
-![4B](screenshots/Screenshot%202026-04-21%20125616.png)
+![4B](screenshots/screenshots/img7.png)
 
 
 ### Screenshot 4C — `cat .pes/refs/heads/main` and `cat .pes/HEAD`
-![4c](screenshots/Screenshot%202026-04-21%20125704.png)
+![4c](screenshots/screenshots/img5.png)
 
 
 ---
 
 ## Integration Test
-![integration-1](screenshots/Screenshot%202026-04-21%20131356.png)
-![integration-2](screenshots/Screenshot%202026-04-21%20131414.png)
+![integration-1](screenshots/screenshots/img4.png)
 
 
 ### Screenshot — `make test-integration`
