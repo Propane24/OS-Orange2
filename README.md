@@ -20,17 +20,17 @@
 ![1A](screenshots/screenshots/img2.png)
 
 ### Screenshot 1B — Sharded object directory
-![1B](screenshots/Screenshot%202026-04-21%20122508.png)
+![1B](screenshots/screenshots/img1.png)
 
 ---
 
 ## Phase 2 — Tree Objects
 
 ### Screenshot 2A — `./test_tree` passing
-![2A](screenshots/Screenshot%202026-04-21%20122706.png)
+![2A](screenshots/screenshots/image.png)
 
 ### Screenshot 2B — Raw binary tree object (`xxd`)
-![2B](screenshots/Screenshot%202026-04-21%20124906.png)
+![2B](screenshots/screenshots/image_copy.png)
 
 ---
 
